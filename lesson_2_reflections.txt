@@ -7,3 +7,15 @@ A new folder named .git is created, containing metadata about the history of com
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 The staging area offers the possibility to filter what you want to commit from the directory.
+
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+You add from the working directory only changes that belong to the same logical change to the staging area, than commit only those.
+
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+It helps to have branches for experimental changes.
