@@ -13,3 +13,9 @@ Because I don't want any new commit on remote to get to me without knowing, as i
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 Forks only fork on Github, clones can be done between Github and local and branches both on Github and local.
+
+
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+To be able to merge commits.
