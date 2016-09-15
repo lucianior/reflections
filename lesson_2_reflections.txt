@@ -25,3 +25,15 @@ It helps to have branches for experimental changes.
 How do the diagrams help you visualize the branch structure?
 
 It is a lot easier.
+
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result is a new commit with the changes in those branches combined.
+
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Pros: when you have a lot of changes it is a lot faster to do an automatic merge. Cons: it cannot handle conflicts, so you must fix them manually.
